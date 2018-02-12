@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//module/bridge_crawl.py=utf-8
+encoding//module/bridge_dao.py=utf-8
+encoding//module/bridge_operate.py=utf-8
+encoding//test/__init__.py=utf8
+encoding//test/bridge_dao_test.py=utf8
+encoding//test/bridge_operate_test.py=utf8
+encoding//test/mongodb_helper_test.py=utf8
+encoding//utility/crawl_helper.py=utf-8
+encoding//utility/mongodb_helper.py=utf-8
+encoding//utility/time_helper.py=utf-8
+encoding/<project>=UTF-8
+encoding/conf.py=utf-8
+encoding/index.py=utf-8
+separateDerivedEncodings=true
